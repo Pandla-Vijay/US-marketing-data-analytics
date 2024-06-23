@@ -1,4 +1,4 @@
-#Marketing Data Analysis
+# Marketing Data Analysis
 
 This project involves a comprehensive data analysis of marketing data using Python libraries such as pandas, numpy, seaborn, matplotlib, and re. The dataset includes columns capturing demographic and transactional information about customers, such as id, YearBirth, Education, MaritalStatus, Income, Kidhome, Teenhome, DtCustomer, Recency, MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts, MntGoldProducts, NumDealsPurchases, NumWebPurchases, NumCatalogPurchases, NumStorePurchases, NumWebVisitsMonth, AcceptedCmp3, AcceptedCmp4, AcceptedCmp5, AcceptedCmp1, AcceptedCmp2, Response, Complain, and Country. The goal of this project is to clean and visualize the data to uncover insights and trends, such as customer purchasing behavior, response to marketing campaigns, and demographic influences on spending patterns.
 
